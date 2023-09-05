@@ -14,16 +14,7 @@ $~~~$
 
 Algorithms are the heart of computer science, and understanding them is essential for writing efficient code and solving complex problems. This repository aims to provide a comprehensive resource for learning and implementing algorithms in different programming languages.
 $~~~$
-## Languages
 
-- Python
-- Java
-- C++
-- JavaScript
-- Ruby
-- Go
-- and more...
-$~~~$
 ## Algorithms
 
 Here is a list of some of the algorithms available in this repository:
